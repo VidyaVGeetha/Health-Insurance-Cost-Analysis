@@ -5,6 +5,7 @@ number of children affect medical insurance charges. The dataset was provided as
 on Coursera.
 **Project Overview**
 ----------------
+
 - Dataset Source: IBM Developer Skills Network - Coursera
 - Tools Used: Python (Pandas, Matplotlib, Seaborn, scikit-learn), JupyterLite (Pyodide environment)
 - Goal: Understand relationships between variables and build a simple regression model to predict insurance charges.
